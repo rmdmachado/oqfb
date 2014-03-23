@@ -6,7 +6,7 @@ configure do
   set :city_name,               'em Basto'                           # Include the preposition (em Coimbra, no Porto, etc.)
   set :meta_keywords,           'basto,made in basto'
   set :meta_description,        'Uma experiência social para melhorar a vida dos cidadãos da região de Basto.'            # Entry pages have their own description (the entry text)
-  set :background_color,        '#F17370'
+  set :background_color,        '#495357'
 
   set :site_url,                'http://www.oquefaltaembasto.com'    # Used for facebook comments. No trailing slash please.
   set :fb_app_id,               '604227562996376'                    # You should create a facebook app to moderate comments
