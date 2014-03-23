@@ -1,5 +1,5 @@
 body {
-	background: #80d2f1;
+	background: #495357;
 	color: #fff;
 }
 
@@ -15,7 +15,6 @@ h1, h2, h3 {
 	right: 0;
 	padding: 0;
 	margin: 0;
-	background-image: url("/img/jardimsantabarbara.png");
 	background-position: center;
 	background-size: cover;
 }
